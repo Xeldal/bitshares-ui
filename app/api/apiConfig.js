@@ -36,7 +36,8 @@ export const settingsAPIs = {
         {url: "wss://ws.gdex.top", location: "China"},
         {url: "wss://dex.rnglab.org", location: "Netherlands"},
         {url: "wss://dexnode.net/ws", location: "Dallas, USA"},
-        {url: "wss://la.dexnode.net/ws", location: "Los Angeles, USA"}
+        {url: "wss://la.dexnode.net/ws", location: "Los Angeles, USA"},
+        {url: "wss://kc-us-dex.xeldal.com/ws", location: "Kansas City, USA"}
     ],
     DEFAULT_FAUCET: "https://bitshares.openledger.info",
     TESTNET_FAUCET: "https://faucet.testnet.bitshares.eu",
